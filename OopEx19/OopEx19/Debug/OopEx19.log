@@ -1,0 +1,15 @@
+﻿  Ex19.cpp
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(52,23): warning C4101: 'ex': unreferenced local variable
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(111,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(118,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(132,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(158,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(177,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(195,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(203,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(207,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(227,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(248,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(262,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx19\OopEx19\Ex19.cpp(371,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OopEx19.vcxproj -> C:\Users\user\source\repos\OopEx19\Debug\OopEx19.exe
