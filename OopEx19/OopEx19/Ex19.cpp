@@ -67,20 +67,16 @@ private:
 		void SetCreatedTime(const string& createdTime) {
 			if (createdTime.empty()) return;
 
-			time_t currently = time(0);
-			char dt[30]{};
-			ctime_s(dt, sizeof dt, &currently);
-			string time = dt;
+			tm* gmtm = gmtime(&now);
+			dt = asctime(gmtm);
 
 			_createdTime = dt;
 		}
 		void SetChangedTime(const string& changedTime) {
 			if (changedTime.empty()) return;
 
-			time_t currently = time(0);
-			char dt[30]{};
-			ctime_s(dt, sizeof dt, &currently);
-			string time = dt;
+			tm* gmtm = gmtime(&now);
+			dt = asctime(gmtm);
 
 			_changedTime = dt;
 		}
